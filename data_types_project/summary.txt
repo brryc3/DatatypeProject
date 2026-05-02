@@ -1,0 +1,5 @@
+name,average,category
+Alice,89.33,Distinction
+Bob,67.83,Pass
+Charlie,47.67,Fail
+David,Invalid Grade,Skipped
